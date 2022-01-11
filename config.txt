@@ -1,0 +1,16 @@
+{
+    "admob": {
+        "androidBanner": "ca-app-pub-5585837809348279/2143024363",
+        "iosBanner": "ca-app-pub-5585837809348279/8135741165",
+        "androidInterstitial": "ca-app-pub-5585837809348279/9638371002",
+        "iosInterstitial": "ca-app-pub-5585837809348279/6631087805",
+        "androidRewarded": "ca-app-pub-5585837809348279/9954706403",
+        "iosRewarded": "ca-app-pub-5585837809348279/8833196428"
+    },
+    "adPeriod": 90,
+    "rewardedVideoPeriod": 0,
+    "rewardedVideoAmount": 2,
+    "androidPackageID": "com.VietAI.ZumblaClassic2022",
+    "iosAppID": "1585663677",
+    "facebookPageID": "430780181582064"
+}
